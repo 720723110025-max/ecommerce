@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: vinayaga-ecommerce
+    runtime: docker
+    repo: https://github.com/720723110025-max/ecommerce
+    plan: free
